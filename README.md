@@ -1,41 +1,32 @@
-# Eve Jekyll Theme - <a href="http://jibolash.github.io/Eve/">Demo</a>
+# Bootstrap4Resume
 
-<a href="https://travis-ci.org/jibolash/Eve"><img src="https://travis-ci.org/jibolash/Eve.svg?branch=gh-pages" alt="Build Status" /></a>
+A single-page static website with a fixed sidebar, smooth scrolling navigation, and content sections. Great for an elegant resume or portfolio. Mobile-friendly. 
 
-Eve is an ultra minimal Jekyll theme for building single page personal portfolio websites
+## Introduction
 
-<p align="center">
-    <img src="https://preview.ibb.co/ditr6J/Screen_Shot_2018_05_14_at_6_27_06_PM.png" />
-</p>
+This is a simple yet elegant website created with the help of a free Bootstrap template. It's fully responsive and easy to adapt for your own purposes. You just need some skills in HTML, Bootstrap 4, and CSS3 to personalize it. A working contact form is included. 
 
-## Deploying to Github Pages
+## Live Preview
 
-- Fork or Clone this repo
-- Rename the repo to your desired github pages url (E.g yourname.github.io)
-- Customize `_config.yml` as desired
-- Push code to a `gh-pages` branch
-- Visit your website at the github pages url you specified in the second step
+<p><a href="https://bootstrap4resume.deployonfriday.net/" target="_blank"> <img src="https://github.com/DrSavvina/Bootstrap4Resume/blob/master/preview1.png"></a></p>
 
-Learn more about Github pages <a href="https://pages.github.com/">here</a>
+## Technologies Used
 
-## Usage
+* HTML5 & CSS3
+* Bootstrap 4
+* JavaScript
+* jQuery JavaScript Library v3.2.1
+* Font Awesome
+* Devicon
+* Google Fonts
 
-- Update `_config.yml` with your desired settings
-- Update `_includes/about.html` with information about yourself
+## Sources
 
-## Local Setup
+* https://github.com/BlackrockDigital/startbootstrap-resume
+* https://fontawesome.com
+* http://konpa.github.io/devicon/
+* https://formspree.io/
 
-- Install <a href="https://www.ruby-lang.org/en/">Ruby</a>, <a href="https://bundler.io/">Bundler</a>, <a href="https://jekyllrb.com/">Jekyll</a>, and <a href="https://nodejs.org/en/">NodeJS</a> `NodeJS`.
-- Run `bundle install` from repo's root
-- Run `bundle exec jekyll serve --config _config.yml,_config-dev.yml` to start the local server
-- Vist website in your browser at `http://localhost:4000`
-- Run link, image and script checks on the website with `bundle exec htmlproofer ./_site --only-4xx`
+## How to Use it
 
-## Credits
-
-- Inspired by <a href="https://github.com/sergiokopplin/indigo">indigo</a>
-- Demo profile photo by <a href="https://www.pexels.com/photo/woman-wearing-eyeglasses-773371/">Tarzine Jackson</a>
-
-## License
-
-MIT
+After downloading, you can edit the HTML and CSS files to make the changes you want and personalize the template. Check your changes opening the index.html in your browser.
